@@ -1,0 +1,52 @@
+{
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-20 16:48:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-20 16:48:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-10-20 16:48:22 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-10-20 16:48:22 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-20 16:47:43 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-10-20 16:48:31 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2024-10-20 16:47:45 +0500",
+      "minecraft:old_growth_birch_forest": "2024-10-20 16:50:24 +0500"
+    },
+    "done": false
+  },
+  "oresmod:recipes/decorations/ultris_block": {
+    "criteria": {
+      "has_ultris": "2024-10-20 16:48:11 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

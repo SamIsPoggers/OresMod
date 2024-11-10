@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "Perlium",
+  "ingredient": {
+    "item": "oresmod:deepslate_perlium_ore"
+  },
+  "result": "oresmod:perlium"
+}

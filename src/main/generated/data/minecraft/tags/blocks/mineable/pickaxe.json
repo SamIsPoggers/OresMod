@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "oresmod:ultris_block",
+    "oresmod:ultris_ore",
+    "oresmod:deepslate_ultris_ore",
+    "oresmod:perlium_block",
+    "oresmod:perlium_ore",
+    "oresmod:deepslate_perlium_ore",
+    "oresmod:infrex_block",
+    "oresmod:infrex_ore",
+    "oresmod:deepslate_infrex_ore",
+    "oresmod:netherite_anvil",
+    "oresmod:super_enchanting_table"
+  ]
+}

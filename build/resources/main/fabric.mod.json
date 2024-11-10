@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "oresmod",
+  "version": "1.0-SNAPSHOT",
+  "name": "OresMod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Adnan/OresMod"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/oresmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.sam.oresmod.client.OresModClient"
+    ],
+    "main": [
+      "org.sam.oresmod.OresMod"
+    ],
+    "fabric-datagen": [
+      "org.sam.oresmod.OresModDataGenerator"
+    ]
+  },
+  "mixins": [
+    "oresmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.7",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}

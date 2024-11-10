@@ -1,0 +1,274 @@
+{
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_from_blasting_infrex_ore": {
+    "criteria": {
+      "has_infrex_ore": "2024-10-14 13:54:39 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/ultris_from_smelting_deepslate_ultris_ore": {
+    "criteria": {
+      "has_deepslate_ultris_ore": "2024-10-14 13:52:57 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_from_blasting_perlium_ore": {
+    "criteria": {
+      "has_perlium_ore": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/ultris_from_blasting_deepslate_ultris_ore": {
+    "criteria": {
+      "has_deepslate_ultris_ore": "2024-10-14 13:52:57 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/building_blocks/perlium": {
+    "criteria": {
+      "has_perlium_block": "2024-10-14 13:53:56 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/ultris_from_smelting_ultris_ore": {
+    "criteria": {
+      "has_ultris_ore": "2024-10-14 13:52:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/decorations/infrex_block": {
+    "criteria": {
+      "has_infrex": "2024-10-14 13:54:40 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_from_smelting_infrex_ore": {
+    "criteria": {
+      "has_infrex_ore": "2024-10-14 13:54:39 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_from_smelting_perlium_ore": {
+    "criteria": {
+      "has_perlium_ore": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_sword": {
+    "criteria": {
+      "has_perlium": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_from_smelting_deepslate_infrex_ore": {
+    "criteria": {
+      "has_deepslate_infrex_ore": "2024-10-14 13:54:40 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/building_blocks/ultris": {
+    "criteria": {
+      "has_ultris_block": "2024-10-14 13:52:58 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/building_blocks/infrex": {
+    "criteria": {
+      "has_infrex_block": "2024-10-14 13:54:40 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2024-10-14 13:52:35 +0500",
+      "minecraft:plains": "2024-10-14 13:52:46 +0500"
+    },
+    "done": false
+  },
+  "oresmod:recipes/decorations/perlium_block": {
+    "criteria": {
+      "has_perlium": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/decorations/ultris_block": {
+    "criteria": {
+      "has_ultris": "2024-10-14 13:52:56 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_from_blasting_deepslate_infrex_ore": {
+    "criteria": {
+      "has_deepslate_infrex_ore": "2024-10-14 13:54:40 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_from_blasting_deepslate_perlium_ore": {
+    "criteria": {
+      "has_deepslate_perlium_ore": "2024-10-14 13:53:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-10-14 13:52:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/ultris_from_blasting_ultris_ore": {
+    "criteria": {
+      "has_ultris_ore": "2024-10-14 13:52:57 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_from_smelting_deepslate_perlium_ore": {
+    "criteria": {
+      "has_deepslate_perlium_ore": "2024-10-14 13:53:55 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

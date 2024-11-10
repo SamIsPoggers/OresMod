@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "oresmod:dragonscale"
+  },
+  "base": {
+    "item": "oresmod:infrex_pickaxe"
+  },
+  "result": {
+    "item": "oresmod:dragon_pickaxe"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "oresmod:block/template_netherite_anvil",
+  "textures": {
+    "top": "oresmod:block/netherite_anvil_top"
+  }
+}

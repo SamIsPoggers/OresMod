@@ -1,0 +1,6 @@
+// 1.20.1	2024-11-09T20:53:14.9301511	OresMod/Tags for minecraft:block
+957dfca242e48704b386148438831772fff9fb5b data\minecraft\tags\blocks\mineable\pickaxe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_iron_tool.json
+aa486f8f385dd25b359c98ea2b6d74a82d08d600 data\minecraft\tags\blocks\needs_diamond_tool.json
+3caf4bdf6e12e3c1185e70b74ca28545c849c8b0 data\fabric\tags\blocks\needs_tool_level_4.json

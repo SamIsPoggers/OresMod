@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "org/sam/oresmod/mixin/EnderDragonEntityMixin": {
+      "Lnet/minecraft/entity/boss/dragon/EnderDragonEntity;remove(Lnet/minecraft/entity/Entity$RemovalReason;)V": "Lnet/minecraft/class_1510;method_5650(Lnet/minecraft/class_1297$class_5529;)V",
+      "updatePostDeath": "Lnet/minecraft/class_1510;method_6108()V"
+    },
+    "org/sam/oresmod/mixin/ModBedrockDropMixin": {
+      "onBreak": "Lnet/minecraft/class_2248;method_9576(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_1657;)V"
+    },
+    "org/sam/oresmod/mixin/ModBedrockMixin": {
+      "calcBlockBreakingDelta": "Lnet/minecraft/class_4970;method_9594(Lnet/minecraft/class_2680;Lnet/minecraft/class_1657;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)F"
+    },
+    "org/sam/oresmod/mixin/PlayerMixin": {
+      "getBlockBreakingSpeed": "Lnet/minecraft/class_1657;method_7351(Lnet/minecraft/class_2680;)F"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "org/sam/oresmod/mixin/EnderDragonEntityMixin": {
+        "Lnet/minecraft/entity/boss/dragon/EnderDragonEntity;remove(Lnet/minecraft/entity/Entity$RemovalReason;)V": "Lnet/minecraft/class_1510;method_5650(Lnet/minecraft/class_1297$class_5529;)V",
+        "updatePostDeath": "Lnet/minecraft/class_1510;method_6108()V"
+      },
+      "org/sam/oresmod/mixin/ModBedrockDropMixin": {
+        "onBreak": "Lnet/minecraft/class_2248;method_9576(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_1657;)V"
+      },
+      "org/sam/oresmod/mixin/ModBedrockMixin": {
+        "calcBlockBreakingDelta": "Lnet/minecraft/class_4970;method_9594(Lnet/minecraft/class_2680;Lnet/minecraft/class_1657;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)F"
+      },
+      "org/sam/oresmod/mixin/PlayerMixin": {
+        "getBlockBreakingSpeed": "Lnet/minecraft/class_1657;method_7351(Lnet/minecraft/class_2680;)F"
+      }
+    }
+  }
+}

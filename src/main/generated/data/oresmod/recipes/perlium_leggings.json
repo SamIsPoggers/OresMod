@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "oresmod:perlium"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "P P",
+    "P P"
+  ],
+  "result": {
+    "item": "oresmod:perlium_leggings"
+  },
+  "show_notification": true
+}

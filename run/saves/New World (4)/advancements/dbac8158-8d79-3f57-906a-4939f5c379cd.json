@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-20 19:28:14 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-10-20 19:29:09 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2024-10-20 19:28:15 +0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

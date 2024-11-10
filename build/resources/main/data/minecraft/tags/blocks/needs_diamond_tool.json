@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "oresmod:perlium_block",
+    "oresmod:perlium_ore",
+    "oresmod:deepslate_perlium_ore",
+    "oresmod:super_enchanting_table"
+  ]
+}

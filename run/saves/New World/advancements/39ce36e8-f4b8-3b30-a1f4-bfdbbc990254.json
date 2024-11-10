@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-14 16:38:04 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-14 16:38:04 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-14 16:37:40 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2024-10-14 16:37:41 +0500"
+    },
+    "done": false
+  },
+  "oresmod:recipes/decorations/ultris_block": {
+    "criteria": {
+      "has_ultris": "2024-10-14 16:38:01 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

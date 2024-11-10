@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:ultris_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ultris": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oresmod:ultris"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_ultris",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:ultris_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

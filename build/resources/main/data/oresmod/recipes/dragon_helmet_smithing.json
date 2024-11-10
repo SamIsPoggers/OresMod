@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "oresmod:dragonscale"
+  },
+  "base": {
+    "item": "oresmod:infrex_helmet"
+  },
+  "result": {
+    "item": "oresmod:dragon_helmet"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:netherite_block"
+    },
+    "I": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "U": {
+      "item": "oresmod:ultris_block"
+    }
+  },
+  "pattern": [
+    "BBB",
+    " U ",
+    "III"
+  ],
+  "result": {
+    "item": "oresmod:netherite_anvil"
+  },
+  "show_notification": true
+}

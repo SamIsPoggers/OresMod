@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "oresmod:dragonscale"
+  },
+  "base": {
+    "item": "oresmod:infrex_hoe"
+  },
+  "result": {
+    "item": "oresmod:dragon_hoe"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

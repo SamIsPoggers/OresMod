@@ -1,0 +1,147 @@
+{
+  "oresmod:recipes/misc/infrex_axe": {
+    "criteria": {
+      "has_infrex": "2024-10-14 16:12:29 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-14 16:12:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-14 16:12:07 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_shovel": {
+    "criteria": {
+      "has_infrex": "2024-10-14 16:12:29 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_pickaxe": {
+    "criteria": {
+      "has_infrex": "2024-10-14 16:12:29 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/decorations/infrex_block": {
+    "criteria": {
+      "has_infrex": "2024-10-14 16:12:29 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_sword": {
+    "criteria": {
+      "has_infrex": "2024-10-14 16:12:29 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-14 16:12:08 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2024-10-14 16:12:09 +0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/decorations/ultris_block": {
+    "criteria": {
+      "has_ultris": "2024-10-14 16:12:31 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_hoe": {
+    "criteria": {
+      "has_infrex": "2024-10-14 16:12:29 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-10-14 16:13:07 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

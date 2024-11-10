@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "oresmod:perlium"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " PP",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "oresmod:perlium_hoe"
+  },
+  "show_notification": true
+}

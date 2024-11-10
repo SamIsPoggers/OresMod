@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "oresmod:infrex"
+    }
+  },
+  "pattern": [
+    "   ",
+    "I I",
+    "I I"
+  ],
+  "result": {
+    "item": "oresmod:infrex_boots"
+  },
+  "show_notification": true
+}

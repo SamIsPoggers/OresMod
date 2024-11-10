@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "oresmod:dragonscale"
+  },
+  "base": {
+    "item": "oresmod:infrex_shovel"
+  },
+  "result": {
+    "item": "oresmod:dragon_shovel"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

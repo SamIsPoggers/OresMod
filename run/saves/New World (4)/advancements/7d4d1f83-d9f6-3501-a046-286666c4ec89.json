@@ -1,0 +1,329 @@
+{
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_from_blasting_infrex_ore": {
+    "criteria": {
+      "has_infrex_ore": "2024-10-21 20:47:53 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/ultris_from_smelting_deepslate_ultris_ore": {
+    "criteria": {
+      "has_deepslate_ultris_ore": "2024-10-21 20:47:48 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_from_blasting_perlium_ore": {
+    "criteria": {
+      "has_perlium_ore": "2024-10-21 20:47:38 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-10-21 20:49:03 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/ultris_from_blasting_deepslate_ultris_ore": {
+    "criteria": {
+      "has_deepslate_ultris_ore": "2024-10-21 20:47:48 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/building_blocks/perlium": {
+    "criteria": {
+      "has_perlium_block": "2024-10-21 20:47:14 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/ultris_from_smelting_ultris_ore": {
+    "criteria": {
+      "has_ultris_ore": "2024-10-21 20:47:12 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_from_smelting_infrex_ore": {
+    "criteria": {
+      "has_infrex_ore": "2024-10-21 20:47:53 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/netherite_anvil": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_from_smelting_perlium_ore": {
+    "criteria": {
+      "has_perlium_ore": "2024-10-21 20:47:38 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_from_smelting_deepslate_infrex_ore": {
+    "criteria": {
+      "has_deepslate_infrex_ore": "2024-10-21 20:47:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/building_blocks/ultris": {
+    "criteria": {
+      "has_ultris_block": "2024-10-21 20:46:35 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-10-21 20:50:58 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:wither": "2024-10-21 20:50:58 +0500"
+    },
+    "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-10-21 20:49:37 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/building_blocks/infrex": {
+    "criteria": {
+      "has_infrex_block": "2024-10-21 20:47:55 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/super_enchanting_table": {
+    "criteria": {
+      "has_ultris_ore": "2024-10-21 20:47:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:wither": "2024-10-21 20:50:58 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2024-10-21 20:46:35 +0500",
+      "minecraft:river": "2024-10-21 20:50:27 +0500",
+      "minecraft:jungle": "2024-10-21 20:50:30 +0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/infrex_from_blasting_deepslate_infrex_ore": {
+    "criteria": {
+      "has_deepslate_infrex_ore": "2024-10-21 20:47:54 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_from_blasting_deepslate_perlium_ore": {
+    "criteria": {
+      "has_deepslate_perlium_ore": "2024-10-21 20:47:38 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/ultris_from_blasting_ultris_ore": {
+    "criteria": {
+      "has_ultris_ore": "2024-10-21 20:47:12 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/dragon_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-10-21 20:48:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-10-21 20:46:33 +0500"
+    },
+    "done": true
+  },
+  "oresmod:recipes/misc/perlium_from_smelting_deepslate_perlium_ore": {
+    "criteria": {
+      "has_deepslate_perlium_ore": "2024-10-21 20:47:38 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

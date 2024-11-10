@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:super_enchanting_table"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ultris": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oresmod:ultris"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_ultris",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:super_enchanting_table"
+    ]
+  },
+  "sends_telemetry_event": false
+}

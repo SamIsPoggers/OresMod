@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "oresmod:perlium_helmet",
+    "oresmod:perlium_chestplate",
+    "oresmod:perlium_leggings",
+    "oresmod:perlium_boots",
+    "oresmod:infrex_helmet",
+    "oresmod:infrex_chestplate",
+    "oresmod:infrex_leggings",
+    "oresmod:infrex_boots",
+    "oresmod:dragon_helmet",
+    "oresmod:dragon_chestplate",
+    "oresmod:dragon_leggings",
+    "oresmod:dragon_boots"
+  ]
+}

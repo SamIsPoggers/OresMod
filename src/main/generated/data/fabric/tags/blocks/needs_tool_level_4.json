@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "oresmod:ultris_block",
+    "oresmod:ultris_ore",
+    "oresmod:deepslate_ultris_ore",
+    "oresmod:infrex_block",
+    "oresmod:infrex_ore",
+    "oresmod:deepslate_infrex_ore",
+    "oresmod:netherite_anvil"
+  ]
+}

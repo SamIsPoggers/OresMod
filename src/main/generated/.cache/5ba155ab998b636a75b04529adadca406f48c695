@@ -1,0 +1,12 @@
+// 1.20.1	2024-11-09T20:53:14.9331487	OresMod/Block Loot Tables
+feec70cb7a270609d0c5b83c5fc7dfb52f345fb3 data\oresmod\loot_tables\blocks\netherite_anvil.json
+a5f586523396721759ec90300179a57daa282813 data\oresmod\loot_tables\blocks\ultris_block.json
+4869f8d90a5e8e52c427be1b9ecb71f75b530271 data\oresmod\loot_tables\blocks\infrex_block.json
+2e5a66350fe18ff2977b30567191727495a1fd50 data\oresmod\loot_tables\blocks\perlium_block.json
+24a3ab89fc0a154f030b37f1fe46eb430dc771a8 data\oresmod\loot_tables\blocks\deepslate_perlium_ore.json
+524bb9501208935f0be983526689d819ba164907 data\oresmod\loot_tables\blocks\ultris_ore.json
+ed5a292b82140aceb1c9440cbcb915a3c0f2335c data\oresmod\loot_tables\blocks\super_enchanting_table.json
+89435236f290da5c14cd63b29baf3902f784c9ab data\oresmod\loot_tables\blocks\perlium_ore.json
+f93199844d85d27afa1e24aea5e5fcc316a9547d data\oresmod\loot_tables\blocks\infrex_ore.json
+59f02a6b56556c95838b872aae4218ba459a2807 data\oresmod\loot_tables\blocks\deepslate_ultris_ore.json
+296e543a526cfd1df82b0af38accfabbcec5bf70 data\oresmod\loot_tables\blocks\deepslate_infrex_ore.json

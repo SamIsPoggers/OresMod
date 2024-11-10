@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "oresmod:infrex"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " II",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "oresmod:infrex_hoe"
+  },
+  "show_notification": true
+}

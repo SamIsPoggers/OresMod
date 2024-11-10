@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:ultris_from_smelting_ultris_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ultris_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oresmod:ultris_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_ultris_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:ultris_from_smelting_ultris_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_ultris_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oresmod:deepslate_ultris_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:ultris_from_blasting_deepslate_ultris_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_deepslate_ultris_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:ultris_from_blasting_deepslate_ultris_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

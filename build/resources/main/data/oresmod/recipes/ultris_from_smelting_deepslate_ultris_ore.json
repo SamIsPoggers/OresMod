@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "Ultris",
+  "ingredient": {
+    "item": "oresmod:deepslate_ultris_ore"
+  },
+  "result": "oresmod:ultris"
+}
